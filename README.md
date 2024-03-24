@@ -1,5 +1,9 @@
 # marcos-prime-the-legacy
+
 Marcos Prime- The Legacy Game
+
+<img src="https://github.com/matheusprandini/marcos-prime-the-legacy/blob/main/src/sprites/alomarquin.png" width="200" height="300">
+
 
 Game built for the Object Oriented Programming 2 course in 2016.
 
