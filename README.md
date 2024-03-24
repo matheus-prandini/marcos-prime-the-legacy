@@ -3,6 +3,10 @@ Marcos Prime- The Legacy Game
 
 Game built for the Object Oriented Programming 2 course in 2016.
 
+## Docs
+
+- The final report of this work containing all the design and implementation details of the game can be accessed in the docs folder.
+
 ## Dependencies
 
 - Java
